@@ -5,7 +5,7 @@ def auto(query):
   # from JARVIS.func.speak import speak
 
   # Set up the API key directly
-  api_key = "AIzaSyAVlVXv1q7M_DD5FFv8EHYeNDSsDWJ8--4"
+  api_key = "[YOUR_API_KEY]"
 
   # Configure the API
   genai.configure(api_key=api_key)
